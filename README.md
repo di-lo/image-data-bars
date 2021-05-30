@@ -11,7 +11,7 @@ Here is a data stripes visualization of climate change over years where red mean
 
 
 Final Project Code in Place 2021.
-Access 2 minute presentation vide from ![here](https://www.youtube.com/watch?v=o5mseeuzZbw&t=2s)
+Access 2 minute presentation video from ![here](https://www.youtube.com/watch?v=o5mseeuzZbw&t=2s)
 and my video presentation from ![here](https://docs.google.com/presentation/d/1Tm2Ot7pKG30szWJGH4_cFA8_Ob6mC-1knoYgWfBqcXc/edit?usp=sharing)
 
 I attended [Code in Place 2021](https://codeinplace.stanford.edu/) which is an intro-to-coding course based on CS106A in Stanford
