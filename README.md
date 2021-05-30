@@ -8,3 +8,10 @@ This data set is from https://gmao.gsfc.nasa.gov/reanalysis/MERRA-2
 
 Here is a data stripes visualization of climate change over years where red means high global warming and green is low:
 ![image](https://user-images.githubusercontent.com/60364755/120105769-16994a80-c163-11eb-8285-6f1eed1103e4.png)
+
+
+Final Project Code in Place 2021. Access 2 minute video presentation .
+
+I attended [Code in Place 2021](https://codeinplace.stanford.edu/) which is an intro-to-coding course based on CS106A in Stanford
+teaches the fundamentals of programming using the widely-used Python language.
+Image Data Bars is my final project for the course.
